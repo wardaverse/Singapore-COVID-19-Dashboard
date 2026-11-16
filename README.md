@@ -11,7 +11,8 @@ An interactive data visualization dashboard that tracks the spread of COVID-19 a
 
 ## Data Source
 
-Case data sourced from the WHO Western Pacific Region dashboard.
+Case data sourced from the WHO Western Pacific Region dashboard. 
+Link: https://data.who.int/dashboards/covid19/cases?n=c
 
 ## Use Cases
 
